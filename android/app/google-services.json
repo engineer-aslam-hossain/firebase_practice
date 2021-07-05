@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285459531249",
+    "project_id": "fir-practice-93d19",
+    "storage_bucket": "fir-practice-93d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285459531249:android:7b9a2356314df6f1267050",
+        "android_client_info": {
+          "package_name": "selise.ch.firebase_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285459531249-r0ne4mp5amhal7qrjh4v1re2leusosvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bwbqSIHqO5ppyMKxdugUmHoY3PrcN_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285459531249-r0ne4mp5amhal7qrjh4v1re2leusosvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
